@@ -2,7 +2,7 @@
 A simple and stylish countdown timer that shows the time remaining until the next New Year using **HTML**, **CSS**, and **JavaScript**.
 
 ## 📸 Preview
-![Countdown output at a particular time](img.png)  
+![Countdown output at a particular time](images/img.png)  
 
 ## 🛠️ Technologies Used
 - **HTML5** — Markup for structure  
